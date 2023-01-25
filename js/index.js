@@ -1,5 +1,3 @@
-
-
 import tabs from './modules/tabs';
 import timer from './modules/timer';
 import cards from './modules/cards';
